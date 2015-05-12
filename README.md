@@ -1,6 +1,6 @@
 # Five Challenging Problems
 
-These problems were posted in the r/programming subreddit and I solved them my way with Ruby.  The problems are as follows.
+These problems were posted in the r/programming subreddit and I solved them my way with Ruby.  I still need to work on the last problem.  The problems are as follows.
 * write three functions that compute the sum of a list of numbers using a for-loop, while-loop and recursion
 * write a function that takes two lists and combines them both with alternating elements between the two
 * write a function that computes the list of Fibonacci numbers up to 100 numbers
